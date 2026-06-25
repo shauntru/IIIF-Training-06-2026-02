@@ -7,5 +7,87 @@
             "All images loaded in shauntru/IIIF-Training-06-2026-02 project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://shauntru.github.io/IIIF-Training-06-2026-02/images/KirbyBlackMagic10001/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "KirbyBlackMagic10001"
+                ]
+            },
+            "height": 1828,
+            "width": 1932,
+            "items": [
+                {
+                    "id": "https://shauntru.github.io/IIIF-Training-06-2026-02/images/KirbyBlackMagic10001/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shauntru.github.io/IIIF-Training-06-2026-02/images/KirbyBlackMagic10001/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shauntru.github.io/IIIF-Training-06-2026-02/images/KirbyBlackMagic10001/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 61,
+                                                "height": 58
+                                            },
+                                            {
+                                                "width": 121,
+                                                "height": 115
+                                            },
+                                            {
+                                                "width": 242,
+                                                "height": 229
+                                            },
+                                            {
+                                                "width": 483,
+                                                "height": 457
+                                            },
+                                            {
+                                                "width": 966,
+                                                "height": 914
+                                            },
+                                            {
+                                                "width": 1932,
+                                                "height": 1828
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 1932,
+                                        "id": "https://shauntru.github.io/IIIF-Training-06-2026-02/images/KirbyBlackMagic10001",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 1828
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shauntru.github.io/IIIF-Training-06-2026-02/images/KirbyBlackMagic10001/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
