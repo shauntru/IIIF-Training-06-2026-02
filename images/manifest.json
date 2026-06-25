@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://shauntru.github.io/IIIF-Training-06-2026-02/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in shauntru/IIIF-Training-06-2026-02 project"
+        ]
+    },
+    "items": []
+}
